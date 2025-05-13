@@ -73,6 +73,9 @@ const ContactPage = () => {
                     <div>
                       <p className="text-sm text-gray-400">Location</p>
                       <p className="text-white">Kuwait City, Kuwait</p>
+                      <p className="text-white mt-1">السرة</p>
+                      <p className="text-white">قطعة ٣</p>
+                      <p className="text-white">شارع ١٣</p>
                     </div>
                   </div>
                 </div>
